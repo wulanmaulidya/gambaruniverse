@@ -1,0 +1,18 @@
+[
+   {"namaPlanet": "Merkurius", "informasiPlanet": "-Planet terdekat dari Matahari\n-Sehari di Merkurius lebih lama daripada setahun di Merkurius\n-Merkurius adalah planet terkecil", "imgPlanet": "merkurius"},
+   {"namaPlanet": "Venus", "informasiPlanet": "-Venus disebut sebagai Bintang Kejora\n- Venus merupakan planet terpanas di Tata Surya\n-Di Venus Matahari terbit dari barat", "imgPlanet": "venus"},
+   {"namaPlanet": "Bumi", "informasiPlanet": "-Bumi Adalah Planet Air\n-Atmosfer Bumi sangat tebal\n-Bumi adalah tempat tinggal makhluk hidup", "imgPlanet": "bumi"},
+   {"namaPlanet": "Mars", "informasiPlanet": "-Mars mempunyai Gunung Tertinggi di Tata Surya\n-Mars memiliki Badai Debu Terbesar di Tata Surya\n-Mars Mempunyai Air", "imgPlanet": "mars"},
+   {"namaPlanet": "Jupiter", "informasiPlanet": "-Jupiter adalah planet terbesar di tata surya\n-Jupiter mengalami hari paling pendek\n-Jupiter memiliki satelit terbesar pada tata surya", "imgPlanet": "jupiter"},
+   {"namaPlanet": "Saturnus", "informasiPlanet": "-Nama Saturnus Diambil Dari Nama Dewa Yunani\n-Ternyata Cincin Saturnus Bisa Menghilang\n-Planet Terbesar Kedua Dalam Tata Surya", "imgPlanet": "saturnus"},
+   {"namaPlanet": "Uranus", "informasiPlanet": "-Uranus sering disebut sebagai planet es\n-Uranus merupakan planet ke 3 terbesar di tata surya\n-Hanya satu pesawat saja yang pernah menjelajahi Uranus", "imgPlanet": "uranus"},
+   {"namaPlanet": "Neptunus", "informasiPlanet": "-Neptunus adalah planet terjauh dari matahari\n-Gravitasi hampir sama dengan Bumi\n-Penemuan Neptunus masih kontroversi", "imgPlanet": "neptunus"},
+   {"namaPlanet": "Andromeda", "informasiPlanet": "Galaksi ini berisi 1 triliun bintang dan sangatlah jauh", "imgPlanet": "andromeda"},
+   {"namaPlanet": "Bima Sakti", "informasiPlanet": "galaksi yang memiliki berbagai benda angkasa di dalamnya dan bergerak dengan sangat teratur", "imgPlanet": "bimasakti"},
+   {"namaPlanet": "Black Eye", "informasiPlanet": "Memiliki cincin kabut dan berwarna gelap Cincin kabut tersebut mengelilingi intinya yang cukup terang Galaksi ini seperti sebuah mata sehingga disebut Black Eye", "imgPlanet": "blackeye"},
+   {"namaPlanet": "Ursa Mayor", "informasiPlanet": "Ursa Mayor sering dikenal oleh nusantara karena terlihat sebagai tujuh bintang terang yang berguna bagi kapal dan juga perahu sebagai patokan saat berlayar di malam hari", "imgPlanet": "ursamayor"},
+   {"namaPlanet": "Smiley", "informasiPlanet": "Galaksi ini memiliki bentuk bak emotikon wajah tersenyum lengkap dengan bibir melengkung serta mata dan hidung", "imgPlanet": "smiley"},
+   {"namaPlanet": "Orionid", "informasiPlanet": "Orionid ini diambil dari tempat bercahaya sebagai titik meteor yang disebut dengan konstelasi orion", "imgPlanet": "orionid"},
+   {"namaPlanet": "Perseid", "informasiPlanet": "Meteor Perseid ini dapat kita lihat dengan jelas pada belahan bumi bagian utara ketika malam hari di musim panas pada saat itu lagit terlihat cerah", "imgPlanet": "perseid"},
+   {"namaPlanet": "Quadrantid", "informasiPlanet": "Meteor yang asalnya dari konstilasi Bootes", "imgPlanet": "quadrantid"}
+]
